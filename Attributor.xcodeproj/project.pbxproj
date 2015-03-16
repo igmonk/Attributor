@@ -81,8 +81,6 @@
 		782F69B31AB6C02100EBB447 /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				782F69B81AB6C02100EBB447 /* AppDelegate.h */,
-				782F69B91AB6C02100EBB447 /* AppDelegate.m */,
 				782F69BB1AB6C02100EBB447 /* ViewController.h */,
 				782F69BC1AB6C02100EBB447 /* ViewController.m */,
 				782F69BE1AB6C02100EBB447 /* Main.storyboard */,
@@ -96,6 +94,8 @@
 		782F69B41AB6C02100EBB447 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				782F69B81AB6C02100EBB447 /* AppDelegate.h */,
+				782F69B91AB6C02100EBB447 /* AppDelegate.m */,
 				782F69B51AB6C02100EBB447 /* Info.plist */,
 				782F69B61AB6C02100EBB447 /* main.m */,
 			);
